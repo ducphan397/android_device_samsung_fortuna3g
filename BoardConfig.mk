@@ -17,4 +17,3 @@ TARGET_LIBINIT_DEFINES_FILE  := $(LOCAL_PATH)/init/init_fortuna3g.c
 # inherit from the proprietary version
 -include vendor/samsung/fortuna3g/BoardConfigVendor.mk
 
-ANDROID_COMPILE_WITH_JACK := false
